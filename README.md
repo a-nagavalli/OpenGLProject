@@ -10,6 +10,8 @@ Various pieces of code used or adapted from various articles in [LearnOpenGL](ht
 
 [stb](https://github.com/nothings/stb) by [Sean Barrett](http://nothings.org/), used under the [Public Domain](www.unlicense.org) (full stb license [here](https://github.com/a-nagavalli/OpenGLProject/blob/main/LICENSES.md)).
 
+[Open Asset Import Library (assimp)](https://github.com/assimp/assimp/tree/master) by [assimp team](https://github.com/assimp/assimp/blob/master/CREDITS), used under [The 3-Clause BSD License](https://opensource.org/license/bsd-3-clause/) (full assimp license [here](https://github.com/a-nagavalli/OpenGLProject/blob/main/LICENSES.md)).
+
 [Houses Pack Low Poly v0.2](https://opengameart.org/content/houses-pack-low-poly-v02) by [Proxy Games](https://opengameart.org/users/catalin-pavel), used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 [Tileable Grass Textures - Set 1](https://opengameart.org/content/tileable-grass-textures-set-1) by [Cethiel](https://opengameart.org/users/cethiel), used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
