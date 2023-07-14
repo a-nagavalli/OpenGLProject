@@ -1,0 +1,11 @@
+
+# ignoring Visual Studio files
+OpenGLProject.sln
+OpenGLProject.vcxproj
+OpenGLProject.vcxproj.filters
+OpenGLProject.vcxproj.user
+.vs
+x64
+
+# ignoring modelsources file
+modelsources.txt
