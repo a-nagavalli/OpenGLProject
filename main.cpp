@@ -19,7 +19,7 @@ enum CameraType {
 
 const int WINDOW_WIDTH = 800;
 const int WINDOW_HEIGHT = 600;
-const float MOVEMENT_SPEED = 7.0f;
+const float MOVEMENT_SPEED = 4.0f;
 const float GROUND_Y = 1.6f;
 const float PLAYER_HEIGHT = 1.4f;
 const float X_BOUND_LEFT = -2.5f;
