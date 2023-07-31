@@ -1,0 +1,5 @@
+# ignoring OpenGL source files
+OpenGL
+
+# ignoring modelsources file
+modelsources.txt
