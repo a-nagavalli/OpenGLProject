@@ -1,16 +1,1 @@
-﻿  main.cpp
-E:\vs projects\OpenGlProject\OpenGLProject\mesh.h(78,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-E:\vs projects\OpenGlProject\OpenGLProject\main.cpp(141,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-E:\vs projects\OpenGlProject\OpenGLProject\main.cpp(252,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\vs projects\OpenGlProject\OpenGLProject\main.cpp(253,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\vs projects\OpenGlProject\OpenGLProject\main.cpp(257,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-E:\vs projects\OpenGlProject\OpenGLProject\main.cpp(258,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-E:\vs projects\OpenGlProject\OpenGLProject\main.cpp(259,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-E:\vs projects\OpenGlProject\OpenGLProject\main.cpp(260,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
-  Generating code
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
-E:\vs projects\OpenGlProject\OpenGLProject\ShaderProgram.h(34): warning C4172: returning address of local variable or temporary: cStr
-  All 826 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  OpenGLProject.vcxproj -> E:\vs projects\OpenGlProject\OpenGLProject\x64\Release\OpenGLProject.exe
+﻿  OpenGLProject.vcxproj -> E:\vs projects\OpenGlProject\OpenGLProject\Visual Studio Files\x64\Release\OpenGLProject.exe

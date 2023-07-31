@@ -145,25 +145,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="glad.c" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="stb_image.cpp" />
+    <ClCompile Include="..\glad.c" />
+    <ClCompile Include="..\main.cpp" />
+    <ClCompile Include="..\stb_image.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="FragmentShader.frag" />
-    <None Include="LightbulbFragmentShader.frag" />
-    <None Include="LightbulbVertexShader.vert" />
-    <None Include="SkyboxFragmentShader.frag" />
-    <None Include="SkyboxVertexShader.vert" />
-    <None Include="VertexShader.vert" />
+    <None Include="..\FragmentShader.frag" />
+    <None Include="..\LightbulbFragmentShader.frag" />
+    <None Include="..\LightbulbVertexShader.vert" />
+    <None Include="..\SkyboxFragmentShader.frag" />
+    <None Include="..\SkyboxVertexShader.vert" />
+    <None Include="..\VertexShader.vert" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mesh.h" />
-    <ClInclude Include="model.h" />
-    <ClInclude Include="Object.h" />
-    <ClInclude Include="ShaderProgram.h" />
-    <ClInclude Include="Skybox.h" />
-    <ClInclude Include="stb_image.h" />
+    <ClInclude Include="..\mesh.h" />
+    <ClInclude Include="..\model.h" />
+    <ClInclude Include="..\Object.h" />
+    <ClInclude Include="..\ShaderProgram.h" />
+    <ClInclude Include="..\Skybox.h" />
+    <ClInclude Include="..\stb_image.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

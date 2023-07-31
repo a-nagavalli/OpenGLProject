@@ -1,1 +1,2 @@
 E:\vs projects\OpenGlProject\OpenGLProject\x64\Debug\OpenGLProject.exe
+E:\vs projects\OpenGlProject\OpenGLProject\Visual Studio Files\x64\Debug\OpenGLProject.exe
