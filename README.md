@@ -1,4 +1,6 @@
+![OpenGLProjectThumbnail](https://github.com/a-nagavalli/OpenGLProject/assets/139515632/85a68d83-5232-4337-9e92-01234bd0b8e8)
 # OpenGLProject
+
 This is a simple 3D model viewer including camera movement, made using OpenGL. It closely follows the tutorial provided on [LearnOpenGL](https://learnopengl.com/) (full attributions in Attributions section). 
 
 Use WASD to move and the mouse to move the camera. 
